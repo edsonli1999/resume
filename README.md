@@ -1,2 +1,3 @@
-# resume
-My personal resume in the form of HTML + CSS, hosted via github pages
+# Resume
+Converted word doc into HTML and CSS via:
+Link to pdf copy:
